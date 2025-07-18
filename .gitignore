@@ -135,3 +135,5 @@ all.config
 
 
 out/
+toolchain/
+arch/arm64/configs/droidian/
